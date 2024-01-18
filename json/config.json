@@ -1,5 +1,5 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar;md5;A164E2FB5514551F7ABBF20E0F02F492",
+  "spider": "https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -115,6 +115,14 @@
       "name": "996影院",
       "type": 3,
       "api": "csp_Cs1369",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "23影视",
+      "name": "23影视",
+      "type": 3,
+      "api": "csp_Ys23",
       "searchable": 1,
       "changeable": 1
     },
